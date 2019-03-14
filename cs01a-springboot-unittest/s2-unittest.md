@@ -6,4 +6,4 @@ Spring Boot Test is provided by two modules -
 [spring-boot-test-autoconfigure] : supports auto-configuration for tests
 [spring-boot-starter-test] dependency imports both the above Spring Boot test modules as well has JUnit, AssertJ, Hamcrest and a number of other useful libraries. 
 
-[run] as Junit Test.
+[run] as Junit Test..
